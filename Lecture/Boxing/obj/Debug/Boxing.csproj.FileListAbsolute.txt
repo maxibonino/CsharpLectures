@@ -1,0 +1,10 @@
+C:\Users\zms\Desktop\Lecture\Boxing\bin\Debug\Boxing.exe.config
+C:\Users\zms\Desktop\Lecture\Boxing\bin\Debug\Boxing.exe
+C:\Users\zms\Desktop\Lecture\Boxing\bin\Debug\Boxing.pdb
+C:\Users\zms\Desktop\Lecture\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\zms\Desktop\Lecture\Boxing\obj\Debug\Boxing.exe
+C:\Users\zms\Desktop\Lecture\Boxing\obj\Debug\Boxing.pdb
+C:\Users\zms\Desktop\Lecture\Boxing\obj\Debug\Boxing.csprojResolveAssemblyReference.cache
+C:\Users\zms\Desktop\Lecture\Boxing\bin\Debug\Lecture.exe
+C:\Users\zms\Desktop\Lecture\Boxing\bin\Debug\Lecture.pdb
+C:\Users\zms\Desktop\Lecture\Boxing\bin\Debug\Lecture.exe.config

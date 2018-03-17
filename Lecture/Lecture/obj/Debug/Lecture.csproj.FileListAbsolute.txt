@@ -1,0 +1,7 @@
+C:\Users\zms\Desktop\Lecture\Lecture\bin\Debug\Lecture.exe.config
+C:\Users\zms\Desktop\Lecture\Lecture\bin\Debug\Lecture.exe
+C:\Users\zms\Desktop\Lecture\Lecture\bin\Debug\Lecture.pdb
+C:\Users\zms\Desktop\Lecture\Lecture\obj\Debug\Lecture.csprojResolveAssemblyReference.cache
+C:\Users\zms\Desktop\Lecture\Lecture\obj\Debug\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\zms\Desktop\Lecture\Lecture\obj\Debug\Lecture.exe
+C:\Users\zms\Desktop\Lecture\Lecture\obj\Debug\Lecture.pdb
